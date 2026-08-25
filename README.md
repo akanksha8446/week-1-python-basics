@@ -37,6 +37,7 @@ Features:
 
 # How to Run
 
+```bash
 python programs/area_of_circle.py
 python programs/even_odd.py
 python programs/factorial_recursion.py
